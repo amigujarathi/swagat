@@ -1,0 +1,53 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.mswagatam.techmahendra"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.mswagatam.techmahendra"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.mswagatam.techmahendra"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.mswagatam.techmahendra"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.mswagatam.techmahendra"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.mswagatam.techmahendra"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.mswagatam.techmahendra"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.mswagatam.techmahendra"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "882686808909",
+            "PACKAGE_NAME": "com.mswagatam.techmahendra"
+        },
+        "cordova-plugin-file-opener2": {
+            "PACKAGE_NAME": "com.mswagatam.techmahendra"
+        },
+        "cordova-open": {
+            "PACKAGE_NAME": "com.mswagatam.techmahendra"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.mswagatam.techmahendra"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.mswagatam.techmahendra"
+        }
+    }
+}
